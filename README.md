@@ -1,1 +1,1 @@
-# create_for_fun
+wayvnc in arch hyprland
